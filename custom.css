@@ -46,3 +46,68 @@
     background: url(ggfg.jpg);
     background-size:cover
 }
+.id {
+    color: rgb(245, 241, 241);
+     text-decoration: none;
+   }
+   .font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+   }
+   .name {
+    font-size: 38px;
+    margin: 1%;
+    margin-left: 1%;
+    padding-left: 1%;   
+   }
+   .Profession {
+    font-size:large; 
+    margin: 1%;
+   } 
+   .from {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .form_height-width {
+        width: 350px;
+        height: 50px;
+        font-size: 22px;
+    }
+    .from_margin {
+        margin-left: 30px;
+        margin-right: 23px;
+        margin-top: 15px;
+    }
+    .from_submit {
+        width: 741px;
+        height: 52px;
+        margin-left: 28px;
+        color: white;
+        background-color: black;
+        margin-top: 12px;
+        cursor:pointer;
+    }
+    .from_heding {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        text-align: center;
+         font-size: 50px;
+         margin-top: 17px;
+         margin-bottom: 0px;
+    }
+    .from_fieldset {
+        width: 800px;
+        height: 570px; margin-left: 250px;
+        margin-top: 50px;
+        background-color: white;
+    }
+    .awards {
+        background-color: rgb(135, 196, 175);
+         text-align: center;
+        font-size: 350%;
+    }
+    .bgfrom_set_img {
+        padding-top: 10px; 
+        padding-bottom: 5px;
+    }
