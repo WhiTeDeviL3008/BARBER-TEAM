@@ -1,0 +1,48 @@
+.back_image {
+    background: url('portrait-tattooed-male-barber-holds-4.jpg');
+    background-size: cover;
+    padding: 100px;
+}
+.btn {
+    border: 4px solid rgb(255, 255, 255); 
+    color: red;
+    padding: 20px;
+    font-size: 150%;
+    text-decoration: none;
+}
+.btn:hover {
+    background-color: white;
+    border: 4px solid rgb(255, 255, 255);
+
+}
+.headind_text {text-align: center; font-size: 65px; margin: 180px 0 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue; 
+}
+.p_text {text-align: center; font-size: 110%;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ padding: 0 15%; color: aliceblue; 
+ margin: 0 0 60px;
+}
+
+.row {
+    width: 100%; 
+    /* justify-content: center; */
+    overflow: hidden;
+    margin: auto;
+}
+.col {
+    max-width: 100%;
+    /* flex: 50%; */
+    /* flex: 1; */
+    width: 21%;
+    float: left;
+     padding: 0 1%;
+     margin: 0 0.7%; 
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+}
+.bgfromimg {
+    background: url(ggfg.jpg);
+    background-size:cover
+}
